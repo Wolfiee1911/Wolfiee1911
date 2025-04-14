@@ -18,7 +18,6 @@ Hi, I'm Svaraan!<br>🚀 Developer | AI Enthusiast | Hobbyist 3D Artist<br><br>�
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Wolfiee1911&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
